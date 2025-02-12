@@ -24,7 +24,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={cosmepedia}
-          link="https://carlos04js.github.io/AudioBook"
+          link="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t10-pmv-ads-2024-1-e1-proj-web-cosmepedia/codigo-fonte/index.html"
           h3="Cosmepedia"
           p="College Project"
         />
@@ -42,7 +42,7 @@ function Projects() {
         />
         <ProjectCard
           src={bookwave}
-          link="https://carlos04js.github.io/AudioBook"
+          link="https://carlos04js.github.io/BookWave_V1/"
           h3="BookWave"
           p="Resposive audioBook player V1 (on development)"
         />
